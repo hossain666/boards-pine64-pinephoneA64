@@ -1,0 +1,1 @@
+# boards-pine64-pinephoneA64
